@@ -7,7 +7,7 @@ class IconCircuitBoard(IconBase):
     "attrs": {
         "width": "24",
         "height": "24",
-        "viewBox": "0 0 24 24",
+        "view_box": "0 0 24 24",
         "fill": "none",
         "stroke": "currentColor",
         "stroke_width": "2",

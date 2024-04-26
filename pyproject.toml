@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lucide-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Lucide icon library package for Python applications"
 authors = ["Basri <h@basri.me>"]
 license = "ISC"

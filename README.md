@@ -10,6 +10,18 @@ Implementation of the lucide icon library for python applications.
 pip install lucide-py
 ```
 
+## Usage
+
+```python
+from lucide import IconSearch
+
+# Create an icon
+icon = IconSearch()
+
+# Get the icon as an SVG string
+icon.render()
+```
+
 ## Documentation
 
 For full documentation, visit [lucide.dev](https://lucide.dev/guide/packages/lucide-react)
